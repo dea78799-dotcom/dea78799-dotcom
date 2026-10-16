@@ -1,11 +1,5 @@
-🚀 Welcome to Alatfera
+kính chào mọi người đến với alatfera-scrpit. sau đây là trang web của mình. chúng tôi có các script và thư viện gui. mọi người có thể tham thảo thư viện gui của alatfera. chúng tôi sẽ hoạt động cập nhật script mọi ngày,hẹn gặp lại. 
 
-Lua Scripts • GUI Libraries • Open Source
+_______________
 
-🇻🇳 Xin chào mọi người! Chào mừng đến với Alatfera.
-
-Chúng tôi chia sẻ các script Lua và thư viện GUI. Hãy khám phá dự án và đón chờ những bản cập nhật mới!
-
-🇬🇧 Welcome to Alatfera! We share Lua scripts and GUI libraries. Explore our projects and stay tuned for updates.
-
-✨ Thanks for visiting — Hẹn gặp lại!
+Welcome everyone to alatfera-scrpit. Here is our website. We have scripts and GUI libraries. You can check out alatfera's GUI library. We will be updating our scripts daily. See you soon!
